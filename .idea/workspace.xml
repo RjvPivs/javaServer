@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="455bf617-d955-4ba4-bf88-dca1b5fb8bae" name="Changes" comment="The code" />
+    <list default="true" id="455bf617-d955-4ba4-bf88-dca1b5fb8bae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
@@ -43,6 +52,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Ij17Ngf4JKti6hQyD2Rg2KfZre" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,14 +80,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="JavaTheThirdTaskApplication " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="javaServer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.Savenko.javaTheThirdTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="JavaTheThirdTaskApplication " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="javaTheThirdTask" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ru.Savenko.javaTheThirdTask.JavaTheThirdTaskApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SHORTEN_COMMAND_LINE" value="NONE" />
@@ -85,11 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.JavaTheThirdTaskApplication " />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,10 +108,10 @@
       <workItem from="1671106340497" duration="84000" />
       <workItem from="1676014650404" duration="813000" />
       <workItem from="1676015496854" duration="76000" />
-      <workItem from="1676017722527" duration="29000" />
-      <workItem from="1676018050690" duration="35000" />
-      <workItem from="1676018105486" duration="124000" />
-      <workItem from="1676020178074" duration="12000" />
+      <workItem from="1676017722527" duration="324000" />
+      <workItem from="1676018232690" duration="442000" />
+      <workItem from="1676019506454" duration="666000" />
+      <workItem from="1676020421942" duration="59000" />
     </task>
     <servers />
   </component>
